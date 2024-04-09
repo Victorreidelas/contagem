@@ -1,1 +1,1 @@
-alert('ola mundo')
+const botoes = document.querySelectorAll(".botao")

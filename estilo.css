@@ -87,6 +87,7 @@ body{
 }
 .aba-conteudo-titulo-principal{
     color: #00C2FF;
+    text-transform: uppercase;
 }
 .aba-conteudo-titulo-segundario{
     color: #4EFFDF;

@@ -77,13 +77,19 @@ body{
 
 .abas-texto{
     color: #FFFFFF;
-    background-color: #1100ED;
+    background-color: var(--cor-de-fundo);
    padding: 40px;
     border-radius: 0 0 40px 40px ;
 }
 .aba-conteudo{
     text-align: center;
     font-size: 28px;
+}
+.aba-conteudo-titulo-principal{
+    color: #00C2FF;
+}
+.aba-conteudo-titulo-segundario{
+    color: #00C2FF;
 }
 
 @media screen and (min-width:768px){

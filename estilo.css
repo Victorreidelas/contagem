@@ -92,4 +92,6 @@ body{
 
 .abas-texto{
     color: floralwhite;
+    color: var(--cor-de-fundo);
+    border-radius: 0 0 40px 40px ;
 }

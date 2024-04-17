@@ -75,6 +75,11 @@ body{
     border-bottom: 4px solid var(--vermelho);
 }
 
+.abas-texto{
+    background-color: var(--cor-de-fundo);
+   padding: 40px;
+    border-radius: 0 0 40px 40px ;
+}
 
 @media screen and (min-width:768px){
     .botoes{
@@ -90,8 +95,4 @@ body{
     border-radius: 0 40px 0 0 ;
 }
 
-.abas-texto{
-    color: floralwhite;
-    color: var(--cor-de-fundo);
-    border-radius: 0 0 40px 40px ;
-}
+

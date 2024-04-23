@@ -74,7 +74,12 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--vermelho);
 }
-
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
 .abas-texto{
     color: #FFFFFF;
     background-color: var(--cor-de-fundo);

@@ -11,8 +11,8 @@ body{
     --vermelho:#FF000F;
     --branco: #FFFFFF;
     --botao-ativo: rgb(2, 0, 36);;
-    --botao-inativo: rgb(2, 0, 36);;
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-inativo: rgb(0, 0, 36);;
+    --texto-fundo: rgba(4, 4, 5, 0.3);
 }
 
 body{

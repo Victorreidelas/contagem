@@ -10,8 +10,8 @@ body{
     --verde: #6FFF57;
     --vermelho:#FF000F;
     --branco: #FFFFFF;
-    --botao-ativo: rgb(2,0,36);;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --botao-ativo: rgb(2, 0, 36);;
+    --botao-inativo: rgb(2, 0, 36);;
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 

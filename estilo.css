@@ -10,7 +10,7 @@ body{
     --verde: #6FFF57;
     --vermelho:#FF000F;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: rgb(2,0,36);;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
